@@ -1,10 +1,10 @@
-# AI-Content-Generator
+# AI-ContentHub
 
-AI-Content-Generator is a versatile and powerful tool designed to help you create high-quality content effortlessly. Whether you're a blogger, marketer, developer, or social media enthusiast, AI-Content-Generator offers a variety of templates to suit your needs.
+AI-ContentHub is a versatile and powerful tool designed to help you create high-quality content effortlessly. Whether you're a blogger, marketer, developer, or social media enthusiast, AI-ContentHub offers a variety of templates to suit your needs.
 
 ## Features
 
-AI-Content-Generator provides the following templates:
+AI-ContentHub provides the following templates:
 
 - **Blog Title Generator**: Generate catchy and SEO-friendly blog titles.
 - **Blog Content Generator**: Create engaging and well-structured blog posts.
